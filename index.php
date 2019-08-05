@@ -6,7 +6,7 @@
 		}
 	</style>
 	<div class="container">
-		<a href="<?php echo $db->base_url().'insert.php'; ?>" class="btn btn-primary" style="margin-bottom: 10px"> + Tambah Data</a>
+		<a href="<?php echo $db->base_url().'insert.php'; ?>" class="btn btn-primary" style="margin-bottom: 10px"> + Tambah Data Mahasiswa STT Bandung</a>
 		<table class="table table-bordered table-stripped table-hover">
 			<thead>
 				<tr>
